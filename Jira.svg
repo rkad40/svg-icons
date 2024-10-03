@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.4124688,0,0,1.4124688,-408.80339,-724.71214)"
+     id="g1022">
+    <path
+       d="m 380.968,517.042 31.918,31.918 -88.326,88.326 -31.918,-31.918 z"
+       fill="#0e65e0"
+       fill-rule="evenodd"
+       id="path1014" />
+    <path
+       d="m 435.37,571.52 31.918,31.918 -88.326,88.326 -31.918,-31.918 z"
+       fill="#0e65e0"
+       fill-rule="evenodd"
+       id="path1016" />
+    <path
+       d="m 381.316,516.678 86.159,86.159 -32.545,32.545 -55.524,-55.524 c -16.97,-16.97 -16.97,-44.484 0,-61.454 z"
+       fill="#2584ff"
+       fill-rule="evenodd"
+       id="path1018" />
+    <path
+       d="m 378.801,691.672 -86.159,-86.159 32.545,-32.544 55.524,55.524 c 16.97,16.97 16.97,44.483 0,61.453 z"
+       fill="#2584ff"
+       fill-rule="evenodd"
+       id="path1020" />
+  </g>
+</svg>

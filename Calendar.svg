@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3843332,0,0,1.3843332,-39.141691,-702.00987)"
+     id="g21092">
+    <rect
+       x="47"
+       y="567"
+       width="143"
+       height="109"
+       fill="#ffffff"
+       id="rect21086" />
+    <path
+       d="M 184.324,571.607 V 589.75 H 166.088 V 571.607 Z M 56.6765,653.25 h 18.2353 v 18.143 H 56.6765 Z M 102.265,571.607 V 589.75 H 84.0294 v -18.143 z m 27.353,0 v 18.143 h -18.236 v -18.143 z m 27.353,45.357 h -18.236 v -18.143 h 18.236 z m 9.117,0 v -18.143 h 18.236 v 18.143 z m 0,27.215 v -18.143 h 18.236 v 18.143 z m -54.706,9.071 h 18.236 v 18.143 h -18.236 z m -9.117,0 v 18.143 H 84.0294 V 653.25 Z M 84.0294,626.036 h 18.2356 v 18.143 H 84.0294 Z m -9.1176,0 v 18.143 H 56.6765 v -18.143 z m 0,-27.215 v 18.143 H 56.6765 v -18.143 z m 27.3532,18.143 H 84.0294 v -18.143 h 18.2356 z m 9.117,0 v -18.143 h 18.236 v 18.143 z m 18.236,27.215 h -18.236 v -18.143 h 18.236 z m 9.117,0 v -18.143 h 18.236 v 18.143 z m 18.236,-72.572 V 589.75 H 138.735 V 571.607 Z M 43,558 V 685 H 198 V 558 Z"
+       fill="#595959"
+       fill-rule="evenodd"
+       id="path21088" />
+    <path
+       d="m 43,512 h 155 v 36 H 43 Z"
+       fill="#ff0000"
+       fill-rule="evenodd"
+       id="path21090" />
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3016177,0,0,1.3016177,-360.484,-655.95024)"
+     id="g19610">
+    <path
+       d="m 405.054,585.455 32.658,56.566 h 0.001 l 13.15,22.778 -36.252,-8.035 -0.698,0.403 v 0 l -0.213,0.123 -11.168,35.412 -13.15,-22.777 v 0 l -32.659,-56.566 24.408,-14.092 v 0 z"
+       stroke="#d9d9d9"
+       stroke-width="4"
+       stroke-miterlimit="8"
+       fill="#c8082d"
+       fill-rule="evenodd"
+       id="path19602" />
+    <path
+       d="m 55.8077,0 v 65.3167 h 1e-4 V 91.6176 L 28.4299,66.5334 h -0.8058 v 0 H 27.3779 L 0,91.6176 V 65.3167 H 8.858e-5 V 0 H 28.1837 v 0 z"
+       stroke="#d9d9d9"
+       stroke-width="4"
+       stroke-miterlimit="8"
+       fill="#f61a46"
+       fill-rule="evenodd"
+       transform="matrix(-0.866025,-0.5,-0.5,0.866025,393.023,613.359)"
+       id="path19604" />
+    <path
+       d="m 323,565 c 0,-28.719 23.281,-52 52,-52 28.719,0 52,23.281 52,52 0,28.719 -23.281,52 -52,52 -28.719,0 -52,-23.281 -52,-52 z"
+       stroke="#dd870d"
+       stroke-width="8"
+       stroke-miterlimit="8"
+       fill="#f7c913"
+       fill-rule="evenodd"
+       id="path19606" />
+    <path
+       d="m 337,553.265 28.648,10e-4 L 374.5,525 383.352,553.266 412,553.265 388.823,570.734 397.676,599 374.5,581.531 351.324,599 l 8.853,-28.266 z"
+       fill="#dd870d"
+       fill-rule="evenodd"
+       id="path19608" />
+  </g>
+</svg>

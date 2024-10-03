@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="Database.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="3.0230269"
+     inkscape:cx="128.01739"
+     inkscape:cy="129.34056"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57">
+    <inkscape:grid
+       type="xygrid"
+       id="grid290" />
+  </sodipodi:namedview>
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3295599,0,0,1.3295599,-36.679687,-351.96332)"
+     id="g10626">
+    <path
+       d="m 50.5001,299.125 c 0,10.286 33.3548,18.625 74.4999,18.625 41.145,0 74.5,-8.339 74.5,-18.625 v 126.75 c 0,10.286 -33.355,18.625 -74.5,18.625 -41.1453,0 -74.5001,-8.339 -74.5001,-18.625 z"
+       fill="#ffc000"
+       fill-rule="evenodd"
+       id="path10618" />
+    <path
+       d="m 50.5001,299.125 c 0,-10.286 33.3548,-18.625 74.4999,-18.625 41.145,0 74.5,8.339 74.5,18.625 0,10.286 -33.355,18.625 -74.5,18.625 -41.1451,0 -74.4999,-8.339 -74.4999,-18.625 z"
+       fill="#ffd966"
+       fill-rule="evenodd"
+       id="path10620" />
+    <path
+       d="m 199.5,299.125 c 0,10.286 -33.355,18.625 -74.5,18.625 -41.1453,0 -74.5001,-8.339 -74.5001,-18.625 0,-10.286 33.3548,-18.625 74.5001,-18.625 41.145,0 74.5,8.339 74.5,18.625 v 126.75 c 0,10.286 -33.355,18.625 -74.5,18.625 -41.1453,0 -74.5001,-8.339 -74.5001,-18.625 l 2e-4,-126.75"
+       stroke="#ffc000"
+       stroke-width="14.6667"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path10622" />
+    <path
+       d="m 59,300 c 0,-7.18 29.7731,-13 66.5,-13 36.727,0 66.5,5.82 66.5,13 0,7.18 -29.773,13 -66.5,13 C 88.7731,313 59,307.18 59,300 Z"
+       fill="#fff2cc"
+       fill-rule="evenodd"
+       id="path10624" />
+  </g>
+</svg>

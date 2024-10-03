@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3831233,0,0,1.3831233,-33.898687,-714.83088)"
+     id="g700">
+    <path
+       d="m 54,585 c 0,-35.346 28.6538,-64 64,-64 35.346,0 64,28.654 64,64 0,35.346 -28.654,64 -64,64 -35.3462,0 -64,-28.654 -64,-64 z"
+       fill="#c00000"
+       fill-rule="evenodd"
+       id="path694" />
+    <path
+       d="M 171,621 118,698 65,621 Z"
+       fill="#c00000"
+       fill-rule="evenodd"
+       id="path696" />
+    <path
+       d="M 72,584.5 C 72,559.371 92.371,539 117.5,539 142.629,539 163,559.371 163,584.5 163,609.629 142.629,630 117.5,630 92.371,630 72,609.629 72,584.5 Z"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path698" />
+  </g>
+</svg>

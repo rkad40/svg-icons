@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="TagGreen.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="3.0230269"
+     inkscape:cx="128.01739"
+     inkscape:cy="129.34056"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57">
+    <inkscape:grid
+       type="xygrid"
+       id="grid290" />
+  </sodipodi:namedview>
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 47.556889,52.23745 C 34.768073,65.778247 35.376468,87.123276 48.917641,99.912718 62.458813,112.70279 83.802716,112.09314 96.592784,98.551966 109.3816,85.011419 108.7732,63.66639 95.232032,50.876948 81.690859,38.087507 60.346956,38.696653 47.556889,52.23745 Z M 12.606717,19.226131 138.97264,9.8570969 244.83589,109.84608 116.32181,245.91002 10.458557,145.92041 Z"
+     stroke="#ffe699"
+     stroke-width="10.0147"
+     stroke-miterlimit="8"
+     fill="#bf9000"
+     fill-rule="evenodd"
+     id="path1046"
+     style="fill:#008000;stroke:#5fff71;stroke-opacity:1" />
+</svg>

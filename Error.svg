@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3590253,0,0,1.3590253,-1089.1372,-694.0275)"
+     id="g492">
+    <path
+       d="m 812.5,605 c 0,-45.563 36.937,-82.5 82.5,-82.5 45.564,0 82.5,36.937 82.5,82.5 0,45.564 -36.936,82.5 -82.5,82.5 -45.563,0 -82.5,-36.936 -82.5,-82.5 z"
+       stroke="#c00000"
+       stroke-width="14.6667"
+       stroke-miterlimit="8"
+       fill="#c00000"
+       fill-rule="evenodd"
+       id="path486" />
+    <path
+       d="m 920.5,546.5 -12.75,76 h -25.5 l -12.75,-76 z"
+       stroke="#ffffff"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       id="path488" />
+    <rect
+       x="881.5"
+       y="636.5"
+       width="27"
+       height="26"
+       stroke="#ffffff"
+       stroke-width="1.33333"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       id="rect490" />
+  </g>
+</svg>

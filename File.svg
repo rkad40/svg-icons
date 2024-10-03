@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.3450692,0,0,1.3450692,-740.30264,-356.73267)"
+     id="g274">
+    <path
+       d="m 580.5,275.5 h 90.606 L 710.5,314.894 V 442.5 h -130 z"
+       stroke="#4472c4"
+       stroke-width="14.6667"
+       stroke-miterlimit="8"
+       fill="#bdd7ee"
+       fill-rule="evenodd"
+       id="path260" />
+    <path
+       d="m 603,345 c 0,-4.418 3.582,-8 8,-8 h 65 c 4.418,0 8,3.582 8,8 v 0 c 0,4.418 -3.582,8 -8,8 h -65 c -4.418,0 -8,-3.582 -8,-8 z"
+       fill="#4472c4"
+       fill-rule="evenodd"
+       id="path262" />
+    <path
+       d="m 603,377 c 0,-4.418 3.582,-8 8,-8 h 65 c 4.418,0 8,3.582 8,8 v 0 c 0,4.418 -3.582,8 -8,8 h -65 c -4.418,0 -8,-3.582 -8,-8 z"
+       fill="#4472c4"
+       fill-rule="evenodd"
+       id="path264" />
+    <path
+       d="m 603,408 c 0,-4.418 3.582,-8 8,-8 h 65 c 4.418,0 8,3.582 8,8 v 0 c 0,4.418 -3.582,8 -8,8 h -65 c -4.418,0 -8,-3.582 -8,-8 z"
+       fill="#4472c4"
+       fill-rule="evenodd"
+       id="path266" />
+    <path
+       d="m 675,315 v -27 l 27,27 z"
+       fill="#8faadc"
+       fill-rule="evenodd"
+       id="path268" />
+    <rect
+       x="664"
+       y="278"
+       width="11"
+       height="48"
+       fill="#4472c4"
+       id="rect270" />
+    <rect
+       x="667"
+       y="313"
+       width="48"
+       height="13"
+       fill="#4472c4"
+       id="rect272" />
+  </g>
+</svg>

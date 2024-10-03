@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   name="pixel-svg-outer"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg57"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs61">
+    <clipPath
+       id="clip0">
+      <rect
+         x="550"
+         y="509"
+         width="184"
+         height="182"
+         id="rect114" />
+    </clipPath>
+  </defs>
+  <g
+     transform="matrix(1.324573,0,0,1.324573,-370.29478,-671.39989)"
+     id="g28578">
+    <path
+       d="m 316.5,520.5 h 90.606 L 446.5,559.894 V 687.5 h -130 z"
+       stroke="#4472c4"
+       stroke-width="14.6667"
+       stroke-miterlimit="8"
+       fill="#bdd7ee"
+       fill-rule="evenodd"
+       id="path28566" />
+    <path
+       d="m 411,560 v -28 l 27,28 z"
+       fill="#8faadc"
+       fill-rule="evenodd"
+       id="path28568" />
+    <rect
+       x="400"
+       y="523"
+       width="11"
+       height="48"
+       fill="#4472c4"
+       id="rect28570" />
+    <rect
+       x="401"
+       y="559"
+       width="48"
+       height="13"
+       fill="#4472c4"
+       id="rect28572" />
+    <path
+       d="m 366.75,651.875 16.375,-16.376 45.761,45.761 -16.375,16.376 z"
+       fill="#843c0c"
+       fill-rule="evenodd"
+       id="path28574" />
+    <path
+       d="m 293,609 c 0,-25.957 21.043,-47 47,-47 25.957,0 47,21.043 47,47 0,25.957 -21.043,47 -47,47 -25.957,0 -47,-21.043 -47,-47 z"
+       stroke="#404040"
+       stroke-width="20"
+       stroke-miterlimit="8"
+       fill="#b2ddec"
+       fill-rule="evenodd"
+       fill-opacity="0.498039"
+       id="path28576" />
+  </g>
+</svg>
